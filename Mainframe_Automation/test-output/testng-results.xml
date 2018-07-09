@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13490" started-at="2018-04-18T08:57:24Z" finished-at="2018-04-18T08:57:37Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="13490" started-at="2018-04-18T08:57:24Z" finished-at="2018-04-18T08:57:37Z">
+      <class name="framework.DriverScript">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:framework.DriverScript@3dd4520b]" name="Setup" is-config="true" duration-ms="72" started-at="2018-04-18T14:27:24Z" finished-at="2018-04-18T14:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="MainAction()[pri:0, instance:framework.DriverScript@3dd4520b]" name="MainAction" duration-ms="12027" started-at="2018-04-18T14:27:24Z" finished-at="2018-04-18T14:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainAction -->
+        <test-method status="PASS" signature="closeTest()[pri:0, instance:framework.DriverScript@3dd4520b]" name="closeTest" is-config="true" duration-ms="1356" started-at="2018-04-18T14:27:36Z" finished-at="2018-04-18T14:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+      </class> <!-- framework.DriverScript -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
